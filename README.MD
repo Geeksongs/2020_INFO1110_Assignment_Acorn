@@ -6,5 +6,5 @@ You can play this game in your terminal(Both windows and linux, also in the term
 If you can have a look at my code , you will know how to achieve all the functions by using object oriented programming by Python,which will assessed in our courese.  In this game, you can use "a" in the keyboard to represent the left direction,"d" to the right and so on. input "q" means you want to quit this game ,input "e" means you want to wait a turn to move.
 
 ## Demo Video
-1[Demo](https://github.com/Geeksongs/2020_INFO1110_Assignment_Acorn/blob/master/maze.gif)
+![Demo](https://github.com/Geeksongs/2020_INFO1110_Assignment_Acorn/blob/master/maze.gif)
 
