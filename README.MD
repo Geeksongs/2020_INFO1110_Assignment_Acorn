@@ -6,4 +6,5 @@ You can play this game in your terminal(Both windows and linux). The Acorn(playe
 If you can have a look at my code , you will know how to achieve all the functions by using object oriented programming by Python,which will assessed in our courese.  
 
 ## Demo Video
-[Video](https://github.com/Geeksongs/2020_INFO1110_Assignment_Acorn/blob/master/maze.mp4)
+<iframe height=498 width=510 src="https://github.com/Geeksongs/2020_INFO1110_Assignment_Acorn/blob/master/maze.mp4" frameborder=0 allowfullscreen></iframe>
+
