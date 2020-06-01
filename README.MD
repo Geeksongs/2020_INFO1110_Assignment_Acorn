@@ -9,8 +9,8 @@ If you can have a look at my code , you will know how to achieve all the functio
 ![Demo](https://github.com/Geeksongs/2020_INFO1110_Assignment_Acorn/blob/master/maze.gif)  
   
 ## Documentation Explanation
-1. game.py：this file aimes to get the move to activate the information in the teminal and transfer the parameter to player.py to actually move the player.
-2. player.py: this file aimes to change the coordinate of the acorn(player) and record or delete the moves of the player, when the game finish, it will pringt some information
-3. run.py :this file was responsible for the input and output in the computer. We create one Game Object in this file and use this to input and print on the screen.
-4. test_all.py: you can use this file to do run all the modules which correspodes to the unit testing and End to End testing module, it is totally optional.
+1. <br>game.py</br>：this file aimes to get the move to activate the information in the teminal and transfer the parameter to player.py to actually move the player.
+2. <br>player.py</br>: this file aimes to change the coordinate of the acorn(player) and record or delete the moves of the player, when the game finish, it will pringt some information
+3. <br>run.py</br> :this file was responsible for the input and output in the computer. We create one Game Object in this file and use this to input and print on the screen.
+4. <br>test_all.py</br>: you can use this file to do run all the modules which correspodes to the unit testing and End to End testing module, it is totally optional.
 5. 
